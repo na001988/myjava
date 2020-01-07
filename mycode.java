@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.HashSet;
 import java.util.Arrays;
 
-class Main {
+class mycode {
   public static void main(String[] args) {
   System.out.println("");
   System.out.println("---------Missing element----------");
